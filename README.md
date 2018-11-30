@@ -1,5 +1,7 @@
 # 3D-Treasure-Hunting-Game
 ## Introduction
+This was a final project for the course, Computer Programming and Graphics II, as I was pursuing the continuing education certificate  in National Central University in 2015.
+
 A treasure hunting game is designed in three different kinds of coordinate systems (Cartesian, spherical, and cylindrical) and dedicated to provide better user experiences. With the help of automatic calculating engines which are able to determine the distance between the treasure and the projected location upon player’s guesses, the player could narrow down easily and further “dig out” the treasure. We also accumulate the attempts that player has tried during the game, and provide a gateway to exit if the player feels “lost” in this virtual world.
 
 ## Code Structure
